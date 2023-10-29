@@ -24,7 +24,11 @@
 - Web Development (**MERN Stack**).
 - Machine Learning (**TensorFlow**).
 - Microsoft Office (**Excel, VBA**).
-
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&height=50&lines=Frontend+Web+Developer;Always+learn+new+things+and+develop+yourself!;Better+and+better+each+day!" /></a>
+</p>
 <hr/>
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Coderfoolish}/count.svg"/></p>
