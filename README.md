@@ -2,12 +2,11 @@
 
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:daophuduytan2203@gmail.com)
 <br />
-
+<img align='right' src="https://bad-apple-github-readme.vercel.app/api?username=CoderFoolish&show_bg=1&show_icons=true">
 - 👨‍🎓 Postgraduate student at [SGU](https://www.sgu.edu.vn/).
 - 📚 I'm pursuing AI with the desire of making some significant contribution to my beautiful national language.
 - 😭 I'm looking for help with Statistics.
 - ⚡ Fun fact: I love Football ️⚽
-- 🔔 Subcribe me on [Youtube](https://www.youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ?sub_confirmation=1).
 
 ### ⚡ Technologies and Skills:  
 
