@@ -28,12 +28,10 @@
 ### 💻 Notable projects:  
 
 <p align="center">
-  <a href="https://github.com/ds4v/NomNaOCR" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ds4v&repo=NomNaOCR" />
+  <a href="https://github.com/Coderfoolish/ModelCar" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ds4v&repo=ModelCar" />
   </a>
-  <a href="https://github.com/ds4v/30VNFoods" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ds4v&repo=30VNFoods" />
-  </a>
+
 </p>
 
 <details>
