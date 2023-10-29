@@ -1,13 +1,12 @@
 <h2> Hello there, I'm Dino <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h2>
 
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:daophuduytan2203@gmail.com)
-<img align='right' src="https://bad-apple-github-readme.vercel.app/api?username=18520339&show_bg=1&show_icons=true">
 <br />
 
 - 👨‍🎓 Postgraduate student at [SGU](https://www.sgu.edu.vn/).
-- 📚 I'm pursuing AI with the desire of making some significant [contributions](https://github.com/ds4v) to my beautiful national language.
+- 📚 I'm pursuing AI with the desire of making some significant contribution to my beautiful national language.
 - 😭 I'm looking for help with Statistics.
-- ⚡ Fun fact: I love Astronomy 🛰️.
+- ⚡ Fun fact: I love Football ️⚽
 - 🔔 Subcribe me on [Youtube](https://www.youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ?sub_confirmation=1).
 
 ### ⚡ Technologies and Skills:  
