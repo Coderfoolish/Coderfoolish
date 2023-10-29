@@ -29,7 +29,6 @@
 
 <p align="center">
   <a href="https://github.com/Coderfoolish/ModelCar" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ds4v&repo=ModelCar" />
   </a>
 
 </p>
