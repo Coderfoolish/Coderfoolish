@@ -1,9 +1,6 @@
 <h2> Hello there, I'm Quan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h2>
 
-[![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:18520339@gm.uit.edu.vn)
-[![Youtube](https://img.shields.io/twitter/url?label=Youtube&logo=youtube&url=https://youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ)](https://www.youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ)
-[![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://linkedin.com/in/quankun)](https://www.linkedin.com/in/quankun)
-[![GoogleScholar](https://img.shields.io/twitter/url?label=GScholar&logo=GoogleScholar&url=https://scholar.google.com.au/citations?user=LXP8FJcAAAAJ)](https://scholar.google.com.au/citations?user=LXP8FJcAAAAJ)
+[![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:daophuduytan2203@gmail.com)
 <img align='right' src="https://bad-apple-github-readme.vercel.app/api?username=18520339&show_bg=1&show_icons=true">
 <br />
 
