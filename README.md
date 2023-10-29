@@ -24,6 +24,8 @@
 - Web Development (**MERN Stack**).
 - Machine Learning (**TensorFlow**).
 - Microsoft Office (**Excel, VBA**).
+
+  
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
