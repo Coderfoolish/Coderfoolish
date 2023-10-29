@@ -27,7 +27,7 @@
 
 <hr/>
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{18520339}/count.svg"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Coderfoolish}/count.svg"/></p>
 <!-- <div align="center">  
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=i8b47ov090ya1zkatwz37yyqe&redirect=true" target="_blank">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=i8b47ov090ya1zkatwz37yyqe&show_offline=false&bar_color_cover=true"/>
