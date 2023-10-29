@@ -2,7 +2,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img align="center"src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=F7941F&random=false&width=435&lines=Your+mother+gave+birth+to+a+warrior%2C+not+a+quitter.+;Stop+whining+and+stand+fukin+up!" /></a>
+    <img align="center" height=60px src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=F7941F&random=false&width=435&lines=Your+mother+gave+birth+to+a+warrior%2C+not+a+quitter.+;Stop+whining+and+stand+fukin+up!" /></a>
 </p>
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:daophuduytan2203@gmail.com)
 <br />
