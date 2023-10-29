@@ -4,7 +4,7 @@
 <img align='right' src="https://bad-apple-github-readme.vercel.app/api?username=18520339&show_bg=1&show_icons=true">
 <br />
 
-- 👨‍🎓 Postgraduate student at [UTS](https://www.uts.edu.au).
+- 👨‍🎓 Postgraduate student at [SGU](https://www.sgu.edu.vn/).
 - 📚 I'm pursuing AI with the desire of making some significant [contributions](https://github.com/ds4v) to my beautiful national language.
 - 😭 I'm looking for help with Statistics.
 - ⚡ Fun fact: I love Astronomy 🛰️.
