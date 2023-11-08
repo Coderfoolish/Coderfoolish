@@ -9,12 +9,6 @@
 - ⚡ Fun fact: I love Football ️⚽
 
 ### ⚡ Technologies and Skills:  
-
-
-- Web Development (**MERN Stack**).
-- Machine Learning (**TensorFlow**).
-- Microsoft Office (**Excel, VBA**).
-<hr/>
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Coderfoolish}/count.svg"/></p>
 <!-- <div align="center">  
