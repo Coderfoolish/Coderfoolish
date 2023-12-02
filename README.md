@@ -4,7 +4,7 @@
 <br />
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Coderfoolish&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
 - 👨‍🎓 Postgraduate student at [SGU](https://www.sgu.edu.vn/).
-- 📚 I'm pursuing AI with the desire of making some significant contribution to my beautiful national language.
+- 📚 I'm pursuing AI 
 - 😭 I'm looking for help with Statistics.
 - ⚡ Fun fact: I love Football ️⚽
 
