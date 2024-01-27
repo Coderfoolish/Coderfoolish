@@ -11,7 +11,9 @@
 ### ⚡ Technologies and Skills:  
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{Coderfoolish}/count.svg"/></p>
+
 ### Acitivity: 
+
 ![Dino's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Coderfoolish&theme=tokyonight)
 <!-- <div align="center">  
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=i8b47ov090ya1zkatwz37yyqe&redirect=true" target="_blank">
