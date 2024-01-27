@@ -15,4 +15,6 @@
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=i8b47ov090ya1zkatwz37yyqe&redirect=true" target="_blank">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=i8b47ov090ya1zkatwz37yyqe&show_offline=false&bar_color_cover=true"/>
   </a>
+### Acitivity: 
+![Dino's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Coderfoolish&theme=tokyonight)
 </div> -->
